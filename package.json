@@ -1,0 +1,12 @@
+{
+  "name": "generator-sct-html5-angularjs",
+  "version": "0.0.1",
+  "description": "scott's angularjs project scaffold.",
+  "files": [
+    "generators"
+  ],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^1.0.0"
+  }
+}
